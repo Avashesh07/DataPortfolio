@@ -20,26 +20,23 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Avashesh Kumar",
+  title: "Hi all, I'm AK, short for Avashesh Kumar",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A Data Nerd 🚀 with experience in building data pipelines and machine learning models with a knack for solving problems using Data."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/16IIkSfZv4M00RNTBC7fIr9w6bjhX-BKA/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/Avashesh07",
+  linkedin: "https://www.linkedin.com/in/avashesh-kumar-x/",
+  gmail: "avashesh.work@gmail.com",
+  medium: "https://medium.com/@avashesh.work",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -49,14 +46,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CRAZY DATA NERD WHO WANTS TO SOLVE ANY PROBLEM HE LAYS HIS EYES ON",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop and maintain data pipelines and ETL processes"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Build machine learning models for predictive analytics"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Work with cloud platforms like AWS and Azure"
     )
   ],
 
@@ -64,37 +61,9 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+        {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
     },
     {
       skillName: "sql-database",
@@ -105,17 +74,27 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "Azure",
+      fontAwesomeClassname: "fab fa-cloud"
     },
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
-    }
+    },
+    {
+      skillName: "html-5",
+      fontAwesomeClassname: "fab fa-html5"
+    },
+    {
+      skillName: "css3",
+      fontAwesomeClassname: "fab fa-css3-alt"
+    },
+    {
+      skillName: "JavaScript",
+      fontAwesomeClassname: "fab fa-js"
+    },
+
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -126,23 +105,30 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
+      schoolName: "Aalto University",
+      logo: require("./assets/images/aaltoLogo.png"),
+      subHeader: "Master of Science in Mathematics and Operations Research",
+      duration: "August 2021 - December 2023",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+         "Developed strong analytical skills through courses like Graph Theory and Number Theory.",
+        "Enhanced programming abilities in Python and statistical analysis through practical coursework.",
+        "Undertook a comprehensive Master’s thesis, showcasing in-depth research capabilities.",
+        "Diversified skill set with electives in Product Development, Filmmaking and even taking the Finnish language course."
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Loughborough University",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      subHeader: "Bachelor of Science in Mathematics",
+      duration: "September 2018 - July 2021",
+      desc: "Ranked top 10% in the program.",
+      descBullets: ["Graduated with First Class Honours, showcasing academic excellence with an impressive degree mark of 84.0%.",
+                    "Excelled in a broad range of mathematical disciplines, evidenced by high marks in advanced courses like Analysis, Linear Algebra, and Mathematical Methods.",
+                    "Developed a solid foundation in Organisational Behaviour and Accounting, reflecting a well-rounded skill set applicable in diverse professional contexts.",
+                    "Demonstrated exceptional proficiency in Computer Applications in Mathematics, aligning with current technological demands in data science and analytics.",
+                    "Cultivated a deep understanding of Probability and Statistics.",
+                    "Engaged in rigorous studies in Vector Calculus, Applied Statistics, and Complex Analysis, ensuring a robust understanding of intricate mathematical concepts."
     }
   ]
 };
@@ -153,16 +139,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Data Analysis", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
-      progressPercentage: "70%"
+      Stack: "Machine Learning",
+      progressPercentage: "80%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "80%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -174,29 +160,38 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Data Scientist Intern",
+      company: "Vaisala",
+      companylogo: require("./assets/images/vaisalaLogo.png"),
+      date: "June 2023 – August 2023",
+      desc: "Developed data pipelines and integrated advanced technologies.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Improved data accuracy for analytics by automating ETL processes.",
+        "Integrated OpenAI's GPT-3.5, AWS SageMaker, and ChromaDB.,
+        "Researched several evaluation metrics and processes for LLMs."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Innovation Analyst Trainee",
+      company: "Fortum",
+      companylogo: require("./assets/images/fortumLogo.png"),
+      date: "April 2024 – September 2024",
+      desc: "Validated advanced AI solutions and developed chatbot demos.",
+      descBullets: [
+        "Increased response relevance by 15% through optimization.",
+        "Delivered AI/ML ideation workshops to over 20 innovators."
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Machine Learning Engineer",
+      company: "SAAB",
+      companylogo: require("./assets/images/saabLogo.png"),
+      date: "Sep 2021 – May 2022",
+      desc: "Took the initiative in a challenging environment to develop a cost-effective drone detection system, aiming to produce a viable alternative to existing high-cost solutions.",
+      descBullets: [
+        "Self-taught Python and machine learning principles to implement a basic YOLOv3 object detection algorithm for real-time detection via webcam.",
+        "Collaborated with a multidisciplinary team to achieve project goals without prior experience in necessary tools"
+      ]
     }
   ]
 };
@@ -212,12 +207,12 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Current Projects",
+  subtitle: "SOME STARTUPS AND COMPANIES THAT I AM CURRENTLY HELPING TO BUILD DATA PIPELINES OR ANALYSE HISTORICAL DATA TO GENERATE INSIGHTS.",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
+      image: require("./assets/images/glidaLogo.png"),
+      projectName: "Glida",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
@@ -239,7 +234,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -252,50 +247,74 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
-      subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      title: "Microsoft Azure for Data Engineering",
+      subtitle: "Certification in Azure Data Engineering.",
+      image: require("./assets/images/microsoft_logo.jpeg"),
+      imageAlt: "Azure Logo",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "View Certification",
+          url: "https://www.coursera.org/account/accomplishments/records/NYF125EG3DE8"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+      title: "Deep Neural Networks with PyTorch",
+      subtitle: "Certification in building deep learning models with PyTorch.",
+      image: require("./assets/images/ibm_logo.jpeg"),
+      imageAlt: "PyTorch Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "View Certification",
+          url: "https://www.coursera.org/account/accomplishments/records/2MNWJUKISO92"
         }
       ]
     },
-
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "Advanced MySQL",
+      subtitle: "Certification in Advanced MySQL Concepts by Meta.",
+      image: require("./assets/images/facebook_logo.jpeg"),
+      imageAlt: "PyTorch Logo",
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "View Certification",
+          url: "https://www.coursera.org/account/accomplishments/records/80WQ1OH9R2XY"
+        }
+      ]
+    },
+    {
+      title: "Generative AI and LLMs: Architecture and Data Preparation",
+      subtitle: "Certification in Generative AI and LLM Concepts by IBM.",
+      image: require("./assets/images/ibm_logo.jpeg"),
+      imageAlt: "PyTorch Logo",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://www.coursera.org/account/accomplishments/records/DID6S4FV7M0M"
+        }
+      ]
+    },
+    {
+      title: "Achieving Advanced Insights with BigQuery",
+      subtitle: "Certification in BigQuery by Google Cloud Platform.",
+      image: require("./assets/images/1656443889325.jpeg"),
+      imageAlt: "PyTorch Logo",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://www.coursera.org/account/accomplishments/records/F1TW31DEIS2S"
+        }
+      ]
+    },
+    {
+      title: "Microsoft Power BI for Business Intelligence",
+      subtitle: "Certification in Microsoft Power BI by Maven Analytics.",
+      image: require("./assets/images/maven_analytics_logo.jpeg"),
+      imageAlt: "PyTorch Logo",
+      footerLink: [
+        {
+          name: "View Certification",
+          url: "https://www.udemy.com/certificate/UC-5652b95c-66a3-4fbc-931b-679eb1494a02/"
         }
       ]
     }
@@ -343,7 +362,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -356,7 +375,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
@@ -365,25 +384,20 @@ const resumeSection = {
   subtitle: "Feel free to download my resume",
 
   // Please Provide with Your Podcast embeded Link
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+358-442425999",
+  email_address: "avashesh.work@gmail.com"
 };
 
-// Twitter Section
 
-const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
-};
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
