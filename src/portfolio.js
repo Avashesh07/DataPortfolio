@@ -106,7 +106,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Aalto University",
-      logo: require("./assets/images/aaltoLogo.png"),
+      logo: require("./assets/images/aalto.png"),
       subHeader: "Master of Science in Mathematics and Operations Research",
       duration: "August 2021 - December 2023",
       desc: "Participated in the research of XXX and published 3 papers.",
@@ -119,7 +119,7 @@ const educationInfo = {
     },
     {
       schoolName: "Loughborough University",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/lu.png"),
       subHeader: "Bachelor of Science in Mathematics",
       duration: "September 2018 - July 2021",
       desc: "Ranked top 10% in the program.",
