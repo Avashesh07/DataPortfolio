@@ -115,7 +115,7 @@ const educationInfo = {
     },
     {
       schoolName: "Loughborough University",
-      logo: require("./assets/images/lu.png"),
+      logo: require("./assets/images/loughboroughLogo.webp"),
       subHeader: "Bachelor of Science in Mathematics",
       duration: "September 2018 - July 2021",
       desc: "Ranked top 10% in the program.",
