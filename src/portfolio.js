@@ -129,6 +129,7 @@ const educationInfo = {
                     "Demonstrated exceptional proficiency in Computer Applications in Mathematics, aligning with current technological demands in data science and analytics.",
                     "Cultivated a deep understanding of Probability and Statistics.",
                     "Engaged in rigorous studies in Vector Calculus, Applied Statistics, and Complex Analysis, ensuring a robust understanding of intricate mathematical concepts."
+      ]
     }
   ]
 };
