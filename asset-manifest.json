@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ba6b4b2f.css",
-    "main.js": "/static/js/main.39c1a591.js",
+    "main.js": "/static/js/main.da3992c5.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -21,7 +21,7 @@
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/MongoDB.svg": "/static/media/MongoDB.6835c61a518a732eb8318d43dfe8f700.svg",
     "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
-    "static/media/scikit-learn.svg": "/static/media/scikit-learn.92d76f9c7b0e339fbecc4654928e1360.svg",
+    "static/media/scikit-learn.svg": "/static/media/scikit-learn.5d44970116f5cb06a0fa6b6286fc5d45.svg",
     "static/media/Docker.svg": "/static/media/Docker.1d41320cb0101dbbc6fe182abd590263.svg",
     "static/media/AWS.svg": "/static/media/AWS.b6a223a18ab9f53bbbf741396aac2f4a.svg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
@@ -42,7 +42,7 @@
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "static/media/PyTorch.svg": "/static/media/PyTorch.091d29874e55ca1389ecf4a0eb434553.svg",
     "main.ba6b4b2f.css.map": "/static/css/main.ba6b4b2f.css.map",
-    "main.39c1a591.js.map": "/static/js/main.39c1a591.js.map",
+    "main.da3992c5.js.map": "/static/js/main.da3992c5.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -50,6 +50,6 @@
   },
   "entrypoints": [
     "static/css/main.ba6b4b2f.css",
-    "static/js/main.39c1a591.js"
+    "static/js/main.da3992c5.js"
   ]
 }
