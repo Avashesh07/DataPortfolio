@@ -89,6 +89,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
+    {
+      skillName: "Azure",
+      svgPath: "./assets/images/Azure.svg", // Ensure this path is correct
+    },
 
 
   ],
