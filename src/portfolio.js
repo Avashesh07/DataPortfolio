@@ -168,7 +168,7 @@ const workExperiences = {
       desc: "Developed data pipelines and integrated advanced technologies.",
       descBullets: [
         "Improved data accuracy for analytics by automating ETL processes.",
-        "Integrated OpenAI's GPT-3.5, AWS SageMaker, and ChromaDB.,
+        "Integrated OpenAI's GPT-3.5, AWS SageMaker, and ChromaDB.",
         "Researched several evaluation metrics and processes for LLMs."
       ]
     },
