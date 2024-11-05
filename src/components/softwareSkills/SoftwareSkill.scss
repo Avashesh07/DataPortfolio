@@ -15,6 +15,26 @@
   margin-bottom: 20px;
 }
 
+.software-skill-inline:hover {
+  transform: scale(1.1); /* Slightly enlarge on hover */
+  color: #4A90E2; /* Change color on hover */
+}
+
+.software-skill-inline i,
+.software-skill-inline .skill-svg-icon {
+  width: 40px; /* Fixed width */
+  height: 40px; /* Fixed height */
+  color: inherit; /* Inherit color for Font Awesome */
+}
+
+
+/* Adjust the size of SVG images */
+.software-skill-inline img.skill-svg-icon {
+  width: 40px;
+  height: 40px;
+}
+
+
 .software-skill-inline > i {
   color: $subTitle;
 }
