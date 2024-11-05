@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.7a530ecb.css",
-    "main.js": "/static/js/main.1041098e.js",
+    "main.js": "/static/js/main.39c1a591.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.4e9ecd77.chunk.js": "/static/js/769.4e9ecd77.chunk.js",
+    "static/js/769.431b3121.chunk.js": "/static/js/769.431b3121.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/glidaLogo.jpg": "/static/media/glidaLogo.984662d6ecf03cc0f31b.jpg",
@@ -17,21 +17,39 @@
     "static/media/fortumLogo.png": "/static/media/fortumLogo.54f5cc1a9edde57d5f57.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/aalto.png": "/static/media/aalto.c91b931e338f0b780103.png",
+    "static/media/PostgresSQL.svg": "/static/media/PostgresSQL.7bc394e86ea1f692d59a3d484ad156af.svg",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/MongoDB.svg": "/static/media/MongoDB.6835c61a518a732eb8318d43dfe8f700.svg",
     "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "static/media/scikit-learn.svg": "/static/media/scikit-learn.92d76f9c7b0e339fbecc4654928e1360.svg",
+    "static/media/Docker.svg": "/static/media/Docker.1d41320cb0101dbbc6fe182abd590263.svg",
+    "static/media/AWS.svg": "/static/media/AWS.b6a223a18ab9f53bbbf741396aac2f4a.svg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "static/media/MySQL.svg": "/static/media/MySQL.ebf5eeaef302d497971c5bbd898566e4.svg",
     "index.html": "/index.html",
+    "static/media/SQLite.svg": "/static/media/SQLite.b4f3f38ee88f92aab0671f0f98aec87f.svg",
+    "static/media/Python.svg": "/static/media/Python.849d0b2b5f1ec20f077dd267498bd536.svg",
+    "static/media/numpy.svg": "/static/media/numpy.071f2a8ebdf1762206d2233a223a68c6.svg",
     "static/media/Azure.svg": "/static/media/Azure.d8c693b62a434719420e95f8c65f3acd.svg",
+    "static/media/Apache Spark.svg": "/static/media/Apache Spark.bfab595a73b6bdbfed358dfaedbaffb9.svg",
+    "static/media/Jupyter.svg": "/static/media/Jupyter.0482682905e698f6a88389cd0b57dc37.svg",
+    "static/media/OpenCV.svg": "/static/media/OpenCV.5269993c5f90a26581f54d5a9dde13fd.svg",
+    "static/media/Jira.svg": "/static/media/Jira.b894f17b42eb499ba8a4c4cecbb58a99.svg",
+    "static/media/Unreal Engine.svg": "/static/media/Unreal Engine.3530fcd998bfe2da8f4f364f6a5fa47a.svg",
+    "static/media/Google Cloud.svg": "/static/media/Google Cloud.d1a9cdc7f8658dec6aef309e62d454c9.svg",
+    "static/media/BitBucket.svg": "/static/media/BitBucket.e254243dddeb1d5c32c75fe7f0484dc4.svg",
+    "static/media/Pandas.svg": "/static/media/Pandas.5a48d1677b40ca61e96a08e92fdbb64d.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "static/media/PyTorch.svg": "/static/media/PyTorch.091d29874e55ca1389ecf4a0eb434553.svg",
     "main.7a530ecb.css.map": "/static/css/main.7a530ecb.css.map",
-    "main.1041098e.js.map": "/static/js/main.1041098e.js.map",
+    "main.39c1a591.js.map": "/static/js/main.39c1a591.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
-    "769.4e9ecd77.chunk.js.map": "/static/js/769.4e9ecd77.chunk.js.map"
+    "769.431b3121.chunk.js.map": "/static/js/769.431b3121.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a530ecb.css",
-    "static/js/main.1041098e.js"
+    "static/js/main.39c1a591.js"
   ]
 }
