@@ -212,7 +212,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I AM CURRENTLY HELPING TO BUILD DATA PIPELINES OR ANALYSE HISTORICAL DATA TO GENERATE INSIGHTS.",
   projects: [
     {
-      image: require("./assets/images/glidaLogo.png"),
+      image: require("./assets/images/glidaLogo.jpg"),
       projectName: "Glida",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
