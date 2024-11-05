@@ -4,6 +4,7 @@
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
+import azureLogo from "./assets/images/Azure.svg";
 
 // Splash Screen
 
@@ -91,7 +92,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Azure",
-      svgPath: "./assets/images/Azure.svg", // Ensure this path is correct
+      svgPath: azureLogo, // Ensure this path is correct
     },
 
 
