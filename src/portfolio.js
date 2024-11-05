@@ -22,7 +22,7 @@ import pythonLogo from "./assets/images/Python.svg";
 import pytorchLogo from "./assets/images/PyTorch.svg";
 import scikitlearLogo from "./assets/images/scikit-learn.svg";
 import sQLiteLogo from "./assets/images/SQLite.svg";
-import unrealLogo from "./assets/images/Unreal.svg";
+import unrealLogo from "./assets/images/Unreal Engine.svg";
 
 
 // Splash Screen
