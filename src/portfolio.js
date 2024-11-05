@@ -5,6 +5,25 @@
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
 import azureLogo from "./assets/images/Azure.svg";
+import awsLogo from "./assets/images/AWS.svg";
+import bitBucketLogo from "./assets/images/BitBucket.svg";
+import dockerLogo from "./assets/images/Docker.svg";
+import apacheLogo from "./assets/images/Apache Spark.svg";
+import googleCloudLogo from "./assets/images/Google Cloud.svg";
+import jiraLogo from "./assets/images/Jira.svg";
+import jupyterLogo from "./assets/images/Jupyter.svg";
+import mongoDBLogo from "./assets/images/MongoDB.svg";
+import mysqlLogo from "./assets/images/MySQL.svg";
+import numpyLogo from "./assets/images/numpy.svg";
+import openCVLogo from "./assets/images/OpenCV.svg";
+import pandasLogo from "./assets/images/Pandas.svg";
+import postgresSQLLogo from "./assets/images/PostgresSQL.svg";
+import pythonLogo from "./assets/images/Python.svg";
+import pytorchLogo from "./assets/images/PyTorch.svg";
+import scikitlearLogo from "./assets/images/scikit-learn.svg";
+import sQLiteLogo from "./assets/images/SQLite.svg";
+import unrealLogo from "./assets/images/Unreal.svg";
+
 
 // Splash Screen
 
@@ -62,40 +81,78 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-        {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+    {
+      skillName: "AWS",
+      svgPath: awsLogo, // Ensure this path is correct
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "BitBucket",
+      svgPath: bitBucketLogo, // Ensure this path is correct
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "Docker",
+      svgPath: dockerLogo, // Ensure this path is correct
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "Apache Spark",
+      svgPath: apacheLogo, // Ensure this path is correct
     },
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Google Cloud",
+      svgPath: googleCloudLogo, // Ensure this path is correct
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "Jira",
+      svgPath: jiraLogo, // Ensure this path is correct
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "Jupyter",
+      svgPath: jupyterLogo, // Ensure this path is correct
     },
     {
-      skillName: "Azure",
-      svgPath: azureLogo, // Ensure this path is correct
+      skillName: "MongoDB",
+      svgPath: mongoDBLogo, // Ensure this path is correct
     },
-
-
+    {
+      skillName: "MySQL",
+      svgPath: mysqlLogo, // Ensure this path is correct
+    },
+    {
+      skillName: "NumPy",
+      svgPath: numpyLogo, // Ensure this path is correct
+    },
+    {
+      skillName: "OpenCV",
+      svgPath: openCVLogo, // Ensure this path is correct
+    },
+    {
+      skillName: "Pandas",
+      svgPath: pandasLogo, // Ensure this path is correct
+    },
+    {
+      skillName: "PostgreSQL",
+      svgPath: postgresSQLLogo, // Ensure this path is correct
+    },
+    {
+      skillName: "Python",
+      svgPath: pythonLogo, // Ensure this path is correct
+    },
+    {
+      skillName: "PyTorch",
+      svgPath: pytorchLogo, // Ensure this path is correct
+    },
+    {
+      skillName: "Scikit-learn",
+      svgPath: scikitlearLogo, // Ensure this path is correct
+    },
+    {
+      skillName: "SQLite",
+      svgPath: sQLiteLogo, // Ensure this path is correct
+    },
+    {
+      skillName: "Unreal",
+      svgPath: unrealLogo, // Ensure this path is correct
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
