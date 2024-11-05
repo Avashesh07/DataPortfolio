@@ -74,10 +74,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "Azure",
-      fontAwesomeClassname: "fab fa-cloud"
-    },
-    {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
     },
@@ -109,7 +105,7 @@ const educationInfo = {
       logo: require("./assets/images/aalto.png"),
       subHeader: "Master of Science in Mathematics and Operations Research",
       duration: "August 2021 - December 2023",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Attained a full scholarship for 2 years.",
       descBullets: [
          "Developed strong analytical skills through courses like Graph Theory and Number Theory.",
         "Enhanced programming abilities in Python and statistical analysis through practical coursework.",
