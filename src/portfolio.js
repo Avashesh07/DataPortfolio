@@ -396,7 +396,7 @@ const blogSection = {
         "This article covers my iterative journey, highlighting the challenges faced, solutions devised, and the eventual triumph (hopefully) of crafting a comprehensive scheduling model."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
